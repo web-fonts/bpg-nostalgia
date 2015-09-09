@@ -1,7 +1,7 @@
 {
   "name": "bpg-nostalgia",
-  "version": "0.0.1",
-  "description": "BPG Nostalgia Web Font",
+  "version": "1.0.0",
+  "description": "BPG Nostalgia Web-Font Package",
   "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-nostalgia"],
   "main": "css/bpg-nostalgia.css",
   "homepage": "https://github.com/web-fonts/bpg-nostalgia",
@@ -10,5 +10,14 @@
     "type": "git",
     "url": "https://github.com/web-fonts/bpg-nostalgia.git"
   },
-  "license": "MIT"
+  "licenses": [
+    {
+      "type": "CC-BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+   }
+  ]
 }
